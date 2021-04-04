@@ -1,0 +1,2 @@
+# mynebot.js
+ss
